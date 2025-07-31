@@ -1,11 +1,11 @@
 {
-    "name": "mount_guessr",
-    "short_name": "mount_guessr",
+    "name": "Wo zum Teufel",
+    "short_name": "Wo zum Teufel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A location guessing game",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
